@@ -6,5 +6,23 @@
    
    
    **Find Me all arround the web**
+  <a target="https://www.linkedin.com/in/avanishayadav/" href="https://icons8.com/icon/60014/twitter">Twitter icon by Icons8</a>
+   
+   <a target="_blank" href="https://www.linkedin.com/in/avanishayadav/">LinkedIn icon by Icons8</a>
+    
+   
+   
+   
+   
+   
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviggv&show_icons=true&line_height=27&count_private=true&title_color=5a54ab&text_color=f609a1&icon_color=eadb15&bg_color=fff" alt="aviggv GitHub Stats" />
+</a>
+<br>
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aviggv&theme=tokyonight_duo)](https://git.io/streak-stats)
+   
+   
    <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Landris18&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=aviggv&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true" alt="GitHub Stats" /> <br/><br/>
