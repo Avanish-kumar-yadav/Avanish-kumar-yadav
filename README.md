@@ -8,7 +8,7 @@
    **Find Me all arround the web**
    
    
-  <a target="_blank" href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/avanishayadav/">Linkedin</a>
 _________________________________________________________________________________________________
    
    <p align="center">
