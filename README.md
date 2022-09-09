@@ -19,11 +19,10 @@ Joined Github **2** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Excel, Mysql, <br />  Machin Learning, Javascript, Tablue,Anaconda etc.
+- 🛠 &nbsp; I’m currently working with Excel, Mysql, <br />  Machin Learning, Tableau,Anaconda etc.
 - 🚀 &nbsp; I’m currently learning Python.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/aviggv).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/aviggv/aviggv/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: aviggv2014@gmail.com.
 
 
@@ -96,7 +95,6 @@ Joined Github **2** years ago.
 	    <li><b>Code Editor:</b> Google Colab</li>
 	    <li><b>To Stay Updated:</b>Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
