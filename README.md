@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Avanish Yadav!](https://github.com/aviggv/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/avanishayadav/)
-[![Email Badge](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](<a href = "mailto: aviggv2014@gmail.com">Send Email</a>
+[![Email Badge](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](<a href = "mailto: aviggv2014@gmail.com">[![Email Badge](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]</a>
 )
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 [![Dev.voyage Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://ava.dev.voyage/)
@@ -26,8 +26,8 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/aviggv).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/aviggv/aviggv/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: aviggv2014@gmail.com.
 
