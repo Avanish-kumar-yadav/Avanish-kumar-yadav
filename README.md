@@ -8,7 +8,7 @@
    **Find Me all arround the web**
    
    
-  <a href="https://www.linkedin.com/in/avanishayadav/">Linkedin</a>-<a href = "mailto: aviggv2014@gmail.com">Email</a>-<a href="https://https://ava.dev.voyage//">Dev Voyage</a>
+  <a href="https://www.linkedin.com/in/avanishayadav/">Linkedin</a>-<a href = "mailto: aviggv2014@gmail.com">Email</a>-<a href="https://ava.dev.voyage/">Dev Voyage</a>
 _________________________________________________________________________________________________
    
    <p align="center">
