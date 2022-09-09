@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/avanishayadav/)
 <a href = "mailto: aviggv2014@gmail.com">![Email Badge](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=google-chrome&logoColor=white)</a>
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/@Avanish38333369)
 [![Dev.voyage Badge](https://img.shields.io/badge/dev.voyage-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://ava.dev.voyage/)
 
 
