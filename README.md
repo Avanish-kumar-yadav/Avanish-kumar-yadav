@@ -11,15 +11,11 @@
 Joined Github **2** years ago.
 
 
-<a href="https://www.buymeacoffee.com/aviggv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Excel, Mysql, <br />  Machin Learning, Tableau,Anaconda etc.
+- 🛠 &nbsp; I’m currently working with Excel, Sql, <br />  Machin Learning, Tableau,Anaconda etc.
 - 🚀 &nbsp; I’m currently learning Python.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/aviggv).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/aviggv/aviggv/issues/2)! I am happy to help.
@@ -35,11 +31,7 @@ Joined Github **2** years ago.
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
@@ -93,7 +85,7 @@ Joined Github **2** years ago.
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Terminal: </b> Jupyter Notebook</li>
 	    <li><b>Code Editor:</b> Google Colab</li>
-	    <li><b>To Stay Updated:</b>Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b> Linkedin and Twitter.</li>
 	    <br />
 	</ul>	
 </details>
